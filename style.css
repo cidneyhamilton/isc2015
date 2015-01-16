@@ -10,3 +10,12 @@ Description: 2015 event theme for International Steampunk City. Child of JME-Eve
 Version: 1.0
 
 */
+
+/* Main menu background */
+.main-menu {
+  background: linear-gradient(#5d3f27, #33251f) repeat scroll 0% 0% transparent;
+}
+
+#page {
+  background: #f4d197;
+}
