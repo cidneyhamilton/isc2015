@@ -11,11 +11,15 @@ Version: 1.0
 
 */
 
+body {
+  background-image: url('images/background.jpg');
+}
+
 /* Main menu background */
 .main-menu {
   background: linear-gradient(#5d3f27, #33251f) repeat scroll 0% 0% transparent;
 }
 
-#page {
+#main {
   background: #f4d197;
 }
